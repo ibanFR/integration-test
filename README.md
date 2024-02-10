@@ -1,4 +1,4 @@
-_# integration-test
+# integration-test
 
 Sample Maven project with basic structure for integration testing.
 
